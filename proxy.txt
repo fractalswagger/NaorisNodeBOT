@@ -1,3 +1,3 @@
-ip:port # Default Protcol HTTP.
+ip:port # Default Protcol HTTP Support socks4
 protocol://ip:port
 protocol://user:pass@ip:port
